@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{%load crispy_forms_tags%}
+
+{% block content %}
+   <section class="">
+        <div class="my-5 container row mx-auto">
+            <div class="col-8">
+                <img class="w-100" src="{{car.image.url}}" alt="">
+            </div>
+            <div class="card shadow-sm col-4">
+                <div class="card-body">
+                    <h5 class="card-title fs-4">{{car.car_name}}</h5>
+                    <p class="card-text fs-6">{{car.description}}</p>
+                    <hr>
+                    <h4 class="fw-bold text-primary">{{car.brand.brand_name}}</h4>
+                    <small class="">Qunatity : {{car.quantity}}</small> <br>
+                    <h6 class="my-2">Price : <span id="order-price">${{car.price}}</span></h6>
+                  {% if request.user.is_authenticated %}
+                  <a href="{%url 'buy_car' car.id%}" type="button" class="btn btn-success d-block w-100 mt-5">Buy Now</a>
+                  {% endif %}
+                </div>
+              </div>
+        </div>
+   
+        <div class="container">
+                      {% comment %} Comments  {% endcomment %}
+          <div class="my-5 py-3 border rounded shadow-sm bg-white">
+            <h5 class="text-center fw-bold">Total Comments : {{comments | length}}</h5>
+            
+            {% for comment in comments %}
+              <div class="bg-body-tertiary p-3 border mx-5 my-4 shadow rounded-2">
+                <h5 class="fw-bold">{{comment.name}}</h5>
+                <p>{{comment.content}}</p>
+                <small>{{comment.createdAt}} | <span class="text-primary">mail : {{comment.email}}</span></small>
+              </div>
+            {% endfor %}
+          </div>
+          {% comment %} comments Input {% endcomment %}
+        {% if request.user.is_authenticated %}
+          <div class="my-5 py-3 border rounded shadow-sm bg-white">
+            <h1 class="text-center">Add Comment</h1>
+            
+            <form method="POST" action="" class="mx-4">
+                {% csrf_token %}
+                {{comment_form|crispy}}
+               <button class="btn btn-warning" type="submit">Send</button>
+              </form>
+            </div>
+          {% endif %}
+        </div>
+   </section>
+{% endblock content %}

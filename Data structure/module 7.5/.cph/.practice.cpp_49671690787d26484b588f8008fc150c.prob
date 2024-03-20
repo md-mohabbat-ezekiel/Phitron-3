@@ -1,0 +1,1 @@
+{"name":"Local: practice","url":"c:\\Phitron\\Bach-03\\Data structure\\module 7.5\\practice.cpp","tests":[{"id":1686757551774,"input":"1 4 5 2 7 -1","output":"7 5 4 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Data structure\\module 7.5\\practice.cpp","group":"local","local":true}

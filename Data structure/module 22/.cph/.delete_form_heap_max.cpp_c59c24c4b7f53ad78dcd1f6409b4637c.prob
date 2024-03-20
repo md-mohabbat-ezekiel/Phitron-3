@@ -1,0 +1,1 @@
+{"name":"Local: delete_form_heap_max","url":"c:\\Phitron\\Bach-03\\Data structure\\module 22\\delete_form_heap_max.cpp","tests":[{"id":1689519699629,"input":"5\n10 60 40 50 30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Data structure\\module 22\\delete_form_heap_max.cpp","group":"local","local":true}

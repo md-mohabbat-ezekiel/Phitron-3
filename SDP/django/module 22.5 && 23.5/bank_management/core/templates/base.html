@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    {% block head_title %}
+    <title>Bank System - By Raiyan</title>
+    {% endblock head_title %}
+</head>
+<body>
+    <main  class="bg-indigo-600 h-full">
+        {% include "navbar.html" %}
+        {% block body %}{% endblock body %}
+        {% include "message.html" %}
+    </main>
+    {% include "footer.html" %}
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+{"name":"Local: practice","url":"c:\\Phitron\\Bach-03\\C programming\\module 20\\practice.c","tests":[{"id":1683817772704,"input":"6\n20 30 10 50 40 60","output":"30 40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\C programming\\module 20\\practice.c","group":"local","local":true}

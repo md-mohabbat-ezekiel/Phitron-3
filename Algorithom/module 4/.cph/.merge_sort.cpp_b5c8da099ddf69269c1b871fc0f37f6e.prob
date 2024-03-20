@@ -1,0 +1,1 @@
+{"name":"Local: merge_sort","url":"c:\\Phitron\\Bach-03\\Algorithom\\module 4\\merge_sort.cpp","tests":[{"id":1691080086011,"input":"7\n1 2 9 4 0 2 5","output":"9 5 4 2 2 1 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Algorithom\\module 4\\merge_sort.cpp","group":"local","local":true}

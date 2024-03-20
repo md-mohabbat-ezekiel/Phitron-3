@@ -1,0 +1,1 @@
+{"name":"Local: que_reverse","url":"c:\\Phitron\\Bach-03\\Data structure\\module 14.5\\que_reverse.cpp","tests":[{"id":1688468523639,"input":"5\n10 20 30 40 50\n\n\n","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Data structure\\module 14.5\\que_reverse.cpp","group":"local","local":true}

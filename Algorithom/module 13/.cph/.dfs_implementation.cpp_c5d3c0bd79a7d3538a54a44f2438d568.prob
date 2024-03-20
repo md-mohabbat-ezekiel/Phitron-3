@@ -1,0 +1,1 @@
+{"name":"Local: dfs_implementation","url":"c:\\Phitron\\Bach-03\\Algorithom\\module 13\\dfs_implementation.cpp","tests":[{"id":1692715002236,"input":"5 4\n1 2\n1 3\n2 4\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Algorithom\\module 13\\dfs_implementation.cpp","group":"local","local":true}

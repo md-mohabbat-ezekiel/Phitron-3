@@ -1,0 +1,1 @@
+{"name":"Local: practice","url":"c:\\Phitron\\Bach-03\\Data structure\\module 4\\practice.cpp","tests":[{"id":1686245780351,"input":"7","output":"\\     /\n \\   /\n  \\ /\n   X\n  / \\\n /   \\\n/     \\"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Data structure\\module 4\\practice.cpp","group":"local","local":true}

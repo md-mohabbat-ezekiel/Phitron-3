@@ -1,0 +1,1 @@
+{"name":"Local: adjacensy_matrix","url":"c:\\Phitron\\Bach-03\\Algorithom\\module 6\\adjacensy_matrix.cpp","tests":[{"id":1691330720592,"input":"4\n5\n1 2\n1 3\n2 4\n4 3\n3 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Algorithom\\module 6\\adjacensy_matrix.cpp","group":"local","local":true}

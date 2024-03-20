@@ -1,0 +1,1 @@
+{"name":"Local: merge_sort_impentation","url":"c:\\Phitron\\Bach-03\\Algorithom\\module 3\\merge_sort_impentation.cpp","tests":[{"id":1690909305298,"input":"5\n233 56 77 334 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Algorithom\\module 3\\merge_sort_impentation.cpp","group":"local","local":true}

@@ -1,0 +1,175 @@
+body{
+   background-color:black;
+   margin: 0px;
+   padding: 0px;
+
+}
+
+.navbar_container{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   background-color:blue;
+
+}
+
+.logo{
+width: 120px;
+}
+
+.menus_container{
+   display: flex;
+   list-style: none;
+   gap:20px;
+   font-size: 22px;
+   color: aliceblue;
+}
+
+.buy{
+   width: 100px;
+
+}
+
+.banner_img{
+   width:100%;
+}
+
+.banner_container{
+   display: flex;
+   width: 80%;
+   margin: auto;
+   height: 100vh;
+   align-items: center;
+   text-align: center;
+}
+
+.title{
+   font-size: 60px;
+   font-weight: bold;
+   color: blueviolet;
+   text-align: center;
+}
+
+.description{
+   font-size: 22px;
+}
+
+button{
+   padding:15px,25px;
+border: none;
+font-size: 18px;    
+}
+
+.ja{
+   background-color:palevioletred ;
+}
+
+.ju{
+   background-color: peru;
+}
+
+.j{
+   background-color:pink;
+}
+
+.service_card{
+   width: 300px;
+   height:350px;
+   box-shadow: 8px 8px 16px gray;
+   border-radius: 5px;
+   text-align: center;
+   padding: 10px;
+}
+
+.service_img{
+   width: 150px;
+}
+
+.cards{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   gap:20px;
+}
+
+.contact_container{
+   text-align: center;
+
+}
+
+.input_box{
+   padding: 15px 30px;
+   margin: 10px;
+}
+
+.text_area{
+   padding: 35px 50px;
+}
+
+
+.submit_btn{
+   padding: 10px 20px;
+   width:35%;
+   margin-top: 20px;
+   background-color: greenyellow;
+   color: white;
+   font-size: 22px;
+   border: none;
+}
+
+
+.sildeshow{
+   width: 100%;
+   margin: auto;
+   height: 500px;
+   align-items: center;
+   text-align: center;
+   justify-content: center;
+}
+
+.im{
+   display: flex;
+   align-items: center;
+   width:30%;
+
+}
+
+
+.r{
+ display:flex;
+ gap:20px;
+ justify-content: center;
+ align-items: center;
+
+}
+
+.browscard{
+   display:flex;
+   align-items: center;
+   justify-content: center;
+   background-color: blanchedalmond;
+   box-shadow: 8px 8px 16px gray;
+   border-radius: 5px;
+   text-align: center;
+   padding: 10px;
+}
+
+.lo{
+width:100px;
+height: 200px;
+}
+
+
+.whole{
+   display: flax;
+   margin-top:100px;
+   gap:400px;
+   background-color: aqua;
+}
+
+
+.catagory{
+   margin-top: 100px;
+   text-align: center;
+   justify-content: center;
+}

@@ -1,0 +1,1 @@
+{"name":"Local: scondary_diagram","url":"c:\\Phitron\\Bach-03\\C programming\\module 18\\scondary_diagram.c","tests":[{"id":1683477744300,"input":"3 3\n0 0 2\n0 5 0\n3 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\C programming\\module 18\\scondary_diagram.c","group":"local","local":true}

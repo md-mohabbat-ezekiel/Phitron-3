@@ -1,0 +1,1 @@
+{"name":"Local: string_stream","url":"c:\\Phitron\\Bach-03\\c++\\module 5\\string_stream.cpp","tests":[{"id":1685206038029,"input":"hello world","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\c++\\module 5\\string_stream.cpp","group":"local","local":true}

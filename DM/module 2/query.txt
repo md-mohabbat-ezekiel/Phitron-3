@@ -1,0 +1,6 @@
+Query -find
+1.select
+2.perameter
+3.crosstab
+4.unmatch 
+5.Action

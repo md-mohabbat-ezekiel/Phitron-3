@@ -1,0 +1,1 @@
+{"name":"Local: swap_it","url":"c:\\Phitron\\Bach-03\\C programming\\module 15.5\\swap_it.c","tests":[{"id":1683307923002,"input":"10 20","output":"20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\C programming\\module 15.5\\swap_it.c","group":"local","local":true}

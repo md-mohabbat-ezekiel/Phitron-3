@@ -1,0 +1,1 @@
+{"name":"Local: count_before_zer","url":"c:\\Phitron\\Bach-03\\C programming\\module 16\\count_before_zer.c","tests":[{"id":1683344338667,"input":"5\n1 2 4 0 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\C programming\\module 16\\count_before_zer.c","group":"local","local":true}

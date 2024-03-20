@@ -1,0 +1,1 @@
+{"name":"Local: unit_matrix","url":"c:\\Phitron\\Bach-03\\C programming\\module 18\\unit_matrix.c","tests":[{"id":1683479452913,"input":"3 3\n1 0 0\n0 1 0\n0 0 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\C programming\\module 18\\unit_matrix.c","group":"local","local":true}

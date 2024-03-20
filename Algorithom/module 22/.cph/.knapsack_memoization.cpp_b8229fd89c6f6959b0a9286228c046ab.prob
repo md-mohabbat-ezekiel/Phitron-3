@@ -1,0 +1,1 @@
+{"name":"Local: knapsack_memoization","url":"c:\\Phitron\\Bach-03\\Algorithom\\module 22\\knapsack_memoization.cpp","tests":[{"id":1693757504812,"input":"4\n1 5 3 2\n5 2 4 3\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Algorithom\\module 22\\knapsack_memoization.cpp","group":"local","local":true}

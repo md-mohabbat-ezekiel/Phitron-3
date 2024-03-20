@@ -1,0 +1,1 @@
+{"name":"Local: dynamic_arsize_increase","url":"c:\\Phitron\\Bach-03\\c++\\module 2\\dynamic_arsize_increase.cpp","tests":[{"id":1684685584750,"input":"10 20 30 40 50","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\c++\\module 2\\dynamic_arsize_increase.cpp","group":"local","local":true}

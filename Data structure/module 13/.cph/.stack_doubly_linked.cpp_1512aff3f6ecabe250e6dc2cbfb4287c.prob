@@ -1,0 +1,1 @@
+{"name":"Local: stack_doubly_linked","url":"c:\\Phitron\\Bach-03\\Data structure\\module 13\\stack_doubly_linked.cpp","tests":[{"id":1687684641593,"input":"5\n10\n20\n30\n40\n50","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Data structure\\module 13\\stack_doubly_linked.cpp","group":"local","local":true}

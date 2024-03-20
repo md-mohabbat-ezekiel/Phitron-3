@@ -1,0 +1,1 @@
+{"name":"Local: 3","url":"c:\\Phitron\\Bach-03\\C programming\\module 14.5\\.cph\\3.c","tests":[{"id":1683001256553,"input":"a","output":"97"},{"id":1683001273855,"input":"A","output":"65"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\C programming\\module 14.5\\.cph\\3.c","group":"local","local":true}

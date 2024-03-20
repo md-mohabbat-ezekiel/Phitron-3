@@ -1,0 +1,1 @@
+{"name":"Local: floyd_warshel","url":"c:\\Phitron\\Bach-03\\Algorithom\\module 17\\floyd_warshel.cpp","tests":[{"id":1693070203753,"input":"4 6\n1 2 3\n2 1 2\n1 4 5\n4 3 2\n3 2 1\n2 4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Algorithom\\module 17\\floyd_warshel.cpp","group":"local","local":true}

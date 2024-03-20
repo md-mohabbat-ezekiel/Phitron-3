@@ -1,0 +1,1 @@
+{"name":"Local: ascending_sort","url":"c:\\Phitron\\Bach-03\\Data structure\\module 10.5\\ascending_sort.cpp","tests":[{"id":1687197985026,"input":"1 4 5 2 7 -1","output":"1 2 4 5 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Data structure\\module 10.5\\ascending_sort.cpp","group":"local","local":true}

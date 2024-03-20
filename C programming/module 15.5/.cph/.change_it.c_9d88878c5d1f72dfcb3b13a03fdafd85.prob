@@ -1,0 +1,1 @@
+{"name":"Local: change_it","url":"c:\\Phitron\\Bach-03\\C programming\\module 15.5\\change_it.c","tests":[{"id":1683307073668,"input":"5\n10 20 30 40 50","output":"10 20 30 40 100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\C programming\\module 15.5\\change_it.c","group":"local","local":true}

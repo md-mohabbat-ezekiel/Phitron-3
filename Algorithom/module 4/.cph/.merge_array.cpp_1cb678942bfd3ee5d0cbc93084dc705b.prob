@@ -1,0 +1,1 @@
+{"name":"Local: merge_array","url":"c:\\Phitron\\Bach-03\\Algorithom\\module 4\\merge_array.cpp","tests":[{"id":1691086882597,"input":"4\n8 6 4 2\t\n4\n7 5 3 1","output":"8 7 6 5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Algorithom\\module 4\\merge_array.cpp","group":"local","local":true}

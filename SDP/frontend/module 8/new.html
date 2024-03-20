@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css" />
+    
+</head>
+<body>
+
+<header>
+    <img src="./Logo.png" alt="Logo">
+    <button class="button">Sort by View</button>
+    <button class="button_1">Blog</button>
+</header>
+
+<div class="button-row">
+    <button class="button" onclick="filterVideos('All')">All</button>
+    <button class="button" onclick="filterVideos('Music')">Music</button>
+    <button class="button" onclick="filterVideos('Comedy')">Comedy</button>
+    <button class="button" onclick="filterVideos('Drawing')">Drawing</button>
+</div>
+
+<div class="content-section" id="musicContent">
+    <div class="video-item">
+        <iframe class="video-iframe" src="https://youtu.be/y_xI9S2qN6A?si=OwzJIpV0SNzHHU-H" frameborder="0" allowfullscreen></iframe>
+        <div class="video-details">
+            <p>Video Length:14:14</p>
+            <p>Channel Name: Cricket</p>
+            <p>Views: 1,000,000</p>
+            <span class="verified-icon">✔</span> Verified
+        </div>
+    </div>
+
+    <div class="video-item">
+        <iframe class="video-iframe" src="https://youtu.be/TGUnWX-81ec?si=C7Dt_M1EQfHIIzhO" frameborder="0" allowfullscreen></iframe>
+        <div class="video-details">
+            <p>Video Length:8:56</p>
+            <p>Channel Name:Sohag360</p>
+            <p>Views: 1,000,000</p>
+            <span class="verified-icon">✔</span> Verified
+        </div>
+    </div>
+    <!-- Add more video items as needed -->
+</div>
+
+<div class="content-section" id="comedyContent">
+    <img src="./Icon.png" alt="image">
+    <p>Oops!! Sorry, There is no content here.</p>
+</div>
+
+<!-- Add similar sections for 'drawingContent' and 'allContent' -->
+
+<script>
+    function filterVideos(category) {
+        // Remove 'clicked' class from all buttons
+        document.querySelectorAll('.button').forEach(button => {
+            button.classList.remove('clicked');
+        });
+
+        // Add 'clicked' class to the clicked button
+        event.target.classList.add('clicked');
+
+        // Show/hide content based on the selected category
+        const musicContent = document.getElementById('musicContent');
+        const comedyContent = document.getElementById('comedyContent');
+        // Add similar variables for 'drawingContent' and 'allContent'
+
+        if (category === 'Music') {
+            musicContent.style.display = 'block';
+            comedyContent.style.display = 'none';
+            // Hide 'drawingContent' and 'allContent'
+        } else if (category === 'Comedy') {
+            musicContent.style.display = 'none';
+            comedyContent.style.display = 'block';
+            // Hide 'drawingContent' and 'allContent'
+        } else if (category === 'Drawing') {
+            // Show 'drawingContent' and hide others
+        } else if (category === 'All') {
+            // Show 'allContent' and hide others
+        } else {
+            // Hide all content
+        }
+
+        // Add your logic for filtering videos based on the selected category
+        console.log(`Filtering videos by category: ${category}`);
+    }
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>

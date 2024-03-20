@@ -1,0 +1,1 @@
+{"name":"Local: message_route","url":"c:\\Phitron\\Bach-03\\Algorithom\\module 10\\message_route.cpp","tests":[{"id":1691943499611,"input":"5 5\n1 2\n1 3\n2 3\n1 4\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Algorithom\\module 10\\message_route.cpp","group":"local","local":true}

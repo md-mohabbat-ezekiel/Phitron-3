@@ -1,0 +1,1 @@
+{"name":"Local: unbounded_knapsack_bottom_up","url":"c:\\Phitron\\Bach-03\\Algorithom\\module 26\\unbounded_knapsack_bottom_up.cpp","tests":[{"id":1694275876911,"input":"4 6\n5 3 2 4\n4 1 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Algorithom\\module 26\\unbounded_knapsack_bottom_up.cpp","group":"local","local":true}

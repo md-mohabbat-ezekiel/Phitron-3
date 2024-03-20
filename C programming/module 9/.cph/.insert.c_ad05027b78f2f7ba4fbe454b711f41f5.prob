@@ -1,0 +1,1 @@
+{"name":"Local: insert","url":"c:\\Phitron\\Bach-03\\C programming\\module 9\\insert.c","tests":[{"id":1681620547456,"input":"5\n10 20 30 40 50\n1 80","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\C programming\\module 9\\insert.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: stack_copy","url":"c:\\Phitron\\Bach-03\\Data structure\\module 14.5\\stack_copy.cpp","tests":[{"id":1688467752028,"input":"5\n10 20 30 40 50\n","output":"10 20 30 40 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Data structure\\module 14.5\\stack_copy.cpp","group":"local","local":true}

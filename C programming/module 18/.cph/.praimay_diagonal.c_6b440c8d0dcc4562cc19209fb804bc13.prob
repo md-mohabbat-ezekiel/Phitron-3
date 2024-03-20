@@ -1,0 +1,1 @@
+{"name":"Local: praimay_diagonal","url":"c:\\Phitron\\Bach-03\\C programming\\module 18\\praimay_diagonal.c","tests":[{"id":1683477378194,"input":"3 3\n2 0 0\n0 5 0\n0 0 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\C programming\\module 18\\praimay_diagonal.c","group":"local","local":true}

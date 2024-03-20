@@ -1,0 +1,1 @@
+{"name":"Local: z_bionary_search","url":"c:\\Phitron\\Bach-03\\Data structure\\module 3\\z_bionary_search.cpp","tests":[{"id":1686197572723,"input":"5 3\n1 5 4 3 2\n5\n3\n6","output":"found\nfound\nnot found"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\Bach-03\\Data structure\\module 3\\z_bionary_search.cpp","group":"local","local":true}
