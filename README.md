@@ -1,4 +1,4 @@
-#PHOTON 
+
 ## Course 1: Introduction to Programming Language
 ### Week 1: Basic Syntax, Condition & Loop
 ### Week 2: Arrays, Condition & Loop Recap
